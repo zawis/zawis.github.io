@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+title:               AZ
+url:                 https://abazvpo.github.io/celeste/
+baseurl:             "/celeste"
+
+markdown:            kramdown
+highlighter:         rouge
+
+exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
+
+permalink:           pretty
+paginate:            5
+paginate_path:       /blog/:num
+
+sass:
+  sass_dir:          _sass
+  style:             :compressed
+
+author:
+  name:              AZ
+  url:               abazvpo.github/celeste
+  email:             aa@aa.com
+
+plugins:
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-gist
