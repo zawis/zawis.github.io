@@ -7,16 +7,7 @@ layout: page
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
 <!-- <div class="text-center"> -->
 For the complete list see <a href="{{ site.baseurl }}/vitae/">here</a>.
-<ul li::before { 
-                content: "\2022";   
-                color: red;  
-                display: inline-block;  
-                width: 1em; 
-                margin-left: -0.9em; 
-                font-weight: bold; 
-                font-size:1.1rem; 
-            }>
-            
+<ul>  
 <li style="text-align: justify;"><b>Zawiszewski, A.</b> &amp; Laka, I. (subm.). <em>Bilinguals processing noun morphology: An ERP study.</em> <a href="http://www.ehu.eus/HEB/wp-content/uploads/2012/05/NounMorphology_Adam13_webprotected.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-pdf" style="color:red"></i></a></li>
 <li style="text-align: justify;">Egusquiza, N., Erdocia, K. &amp; <b>Zawiszewski, A.</b> (2019). Coreference and antecedent frequency effects in Spanish: An eye-tracking study. Itziar Laka (Arg.) <em>Hitzak Sarean</em>, EHUko Argitalpen Zerbitzua, 65-82. <a href="http://www.ehu.eus/HEB/wp-content/uploads/2019/12/2019_NE_AZ_Eyetracking_final2" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-pdf" style="color:red"></i></a></li>
 <li style="text-align: justify;">Martinez de la Hidalga, G.; <b>Zawiszewski, A.</b>; Laka, I. (2019). <em>Eppur non si muove</em>: experimental evidence for the Unaccusative Hypothesis and distinct ɸ-feature processing in Basque. <i>Glossa: a Journal of General Linguistics, 4(1), 120. </i><a href="http://doi.org/10.5334/gjgl.829"><i class="ai ai-doi ai-1x" style="color:red"></i></a> <a href="https://www.glossa-journal.org/articles/10.5334/gjgl.829/" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-pdf" style="color:red"></i></a></li>
