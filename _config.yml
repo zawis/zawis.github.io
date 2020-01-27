@@ -1,6 +1,6 @@
 title:               AZ
-url:                 https://abazvpo.github.io/celeste/
-baseurl:             "/celeste"
+url:                 https://zawis.github.io/
+baseurl:             "/"
 
 markdown:            kramdown
 highlighter:         rouge
@@ -17,7 +17,7 @@ sass:
 
 author:
   name:              AZ
-  url:               abazvpo.github/celeste
+  url:               zawis.github.
   email:             aa@aa.com
 
 plugins:
