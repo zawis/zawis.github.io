@@ -6,7 +6,7 @@ layout: page
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
 <!-- <div class="text-center"> -->
-For the complete list see <a href="http://www.ehu.eus/HEB/adam_zawiszewski">here</a>.
+For the complete list see <a href="{{ site.baseurl }}/vitae/">here</a>.
 <ul style="list-style-type:none">
 <li style="text-align: justify;"><b>Zawiszewski, A.</b> &amp; Laka, I. (subm.). <em>Bilinguals processing noun morphology: An ERP study.</em> <a href="http://www.ehu.eus/HEB/wp-content/uploads/2012/05/NounMorphology_Adam13_webprotected.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-pdf" style="color:red"></i></a></li>
 <li style="text-align: justify;">Egusquiza, N., Erdocia, K. &amp; <b>Zawiszewski, A.</b> (2019). Coreference and antecedent frequency effects in Spanish: An eye-tracking study. Itziar Laka (Arg.) <em>Hitzak Sarean</em>, EHUko Argitalpen Zerbitzua, 65-82. <a href="http://www.ehu.eus/HEB/wp-content/uploads/2019/12/2019_NE_AZ_Eyetracking_final2" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-pdf" style="color:red"></i></a></li>
