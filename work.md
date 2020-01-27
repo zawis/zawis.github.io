@@ -5,6 +5,22 @@ layout: page
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
+<style> 
+           ul{ 
+                list-style: none; 
+            } 
+            ul li::before { 
+                /* \2022 is the CSS Code/unicode for a disc */ 
+                content: "\2022";   
+                color: red;  
+                display: inline-block;  
+                width: 1em; 
+                margin-left: -0.9em; 
+                font-weight: bold; 
+                font-size:1.1rem; 
+            } 
+        </style> 
+        
 <!-- <div class="text-center"> -->
 For the complete list see <a href="{{ site.baseurl }}/vitae/">here</a>.
 <ul>
