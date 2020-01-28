@@ -1,4 +1,4 @@
-# celeste
+# This website
 
 This website is based on Celeste (a lightweight Jekyll theme) that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. 
 
