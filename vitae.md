@@ -8,3 +8,7 @@ layout: page
 <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1zblrJ7doH8TXGh0-N0q3nMajJbk8_Xdz/view">View the PDF</a>.</p>
   <!--</embed>-->
 </object>
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://drive.google.com/file/d/<<1zblrJ7doH8TXGh0-N0q3nMajJbk8_Xdz>>/preview">
+  </iframe>
