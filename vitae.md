@@ -10,5 +10,5 @@ layout: page
 </object>
 <iframe frameborder="0" scrolling="no"
      width="640" height="480"
-     src="https://drive.google.com/file/d/1zblrJ7doH8TXGh0-N0q3nMajJbk8_Xdz/preview">
+     src="https://drive.google.com/file/d/1zblrJ7doH8TXGh0-N0q3nMajJbk8_Xdz/view">
   </iframe>
