@@ -7,3 +7,7 @@ layout: page
 <embed src="https://drive.google.com/file/d/1zblrJ7doH8TXGh0-N0q3nMajJbk8_Xdz/view" width="100%" height="750px" />
 <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1zblrJ7doH8TXGh0-N0q3nMajJbk8_Xdz/view">View the PDF</a>.</p></embed>
 </object>
+<iframe src="http://docs.google.com/gview?
+    url=http://infolab.stanford.edu/pub/papers/google.pdf&embedded=true"
+    style="width:600px; height:500px;" frameborder="0">
+</iframe>
