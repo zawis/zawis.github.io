@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 <!--title: Vitae-->
 ---
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
